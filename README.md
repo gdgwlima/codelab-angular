@@ -1,4 +1,5 @@
 # Codelab Angular & Firebase 
+## Se actualizará para la versión actual de Angular
 Build app using Angular and Firebase Hosting
 
 Prerequisitos : 
