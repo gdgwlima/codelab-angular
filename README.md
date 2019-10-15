@@ -1,4 +1,5 @@
 # Codelab Angular & Firebase 
+## Se actualizará para la versión actual de Angular
 Build app using Angular and Firebase Hosting
 
 Prerequisitos : 
@@ -32,6 +33,8 @@ npm install angularfire2 firebase --save
 Ingresamos a la consola de Firebase (Login con Gmail) y creamos nuestra aplicación :
 
 https://console.firebase.google.com/
+
+Revisamos la nueva consola de Firebase
 
 En el archivo app.module.ts de nuestro proyecto, agregamos: 
 
