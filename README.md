@@ -34,6 +34,8 @@ Ingresamos a la consola de Firebase (Login con Gmail) y creamos nuestra aplicaci
 
 https://console.firebase.google.com/
 
+Revisamos la nueva consola de Firebase
+
 En el archivo app.module.ts de nuestro proyecto, agregamos: 
 
 ```sh
